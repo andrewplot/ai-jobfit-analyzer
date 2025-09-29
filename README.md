@@ -1,14 +1,3 @@
-# ATS-Optimized Resume Bullet Points
-
-## Machine Learning & NLP Engineer Position
-• **Developed semantic resume-matching system using SentenceTransformer embeddings and TF-IDF vectorization, achieving 85% accuracy in candidate-job alignment and reducing manual screening time by 60%**
-
-• **Engineered multi-modal text analysis pipeline processing 1000+ PDF documents with PyPDF2, implementing cosine similarity algorithms and scikit-learn feature extraction to automate recruitment workflows**
-
----
-
-# AI Resume-Job Matcher: Technical Documentation
-
 ## Abstract
 
 This application implements a sophisticated **Natural Language Processing (NLP)** pipeline for automated resume-job description matching using transformer-based semantic embeddings, TF-IDF vectorization, and multi-criteria scoring algorithms.
