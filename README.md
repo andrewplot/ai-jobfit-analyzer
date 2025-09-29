@@ -38,9 +38,9 @@ flowchart TD
     Q --> T[Actionable Recommendations]
     Q --> U[Downloadable Report]
     
-    style A fill:#e1f5ff
-    style P fill:#90ee90
-    style Q fill:#ffd700
+    style A fill:#e1f5ff,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#90ee90,stroke:#333,stroke-width:2px,color:#000
+    style Q fill:#ffd700,stroke:#333,stroke-width:2px,color:#000
 ```
 
 ## Core Components
